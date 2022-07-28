@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @douglasmsmith
-- 👀 I’m interested in machine learning and NLP
-- 🌱 I’m currently learning about computer vision
-- 💞️ I’m looking to collaborate on projects related to any of the above
+- 👀 I’m interested in machine learning, but particularly in NLP and XAI
+- 🌱 I’m currently working as a machine learning engineer, with a focus on computer vision
+- 💞️ I’m looking to collaborate on projects related to any of the above!
 - 📫 You can reach via email at douglasmsmith@protonmail.com
