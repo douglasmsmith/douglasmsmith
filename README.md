@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @douglasmsmith
-- 👀 I’m interested in machine learning, but particularly in NLP, XAI and Social Cognitive Systems
+- 👀 I’m interested in computer vision, NLP, XAI and Social Cognitive Systems
 - 🌱 I’m currently working as a machine learning engineer, with a focus on computer vision
 - 💞️ I’m looking to collaborate on projects related to any of the above!
 - 📫 You can reach me via email at douglasmsmith@protonmail.com
